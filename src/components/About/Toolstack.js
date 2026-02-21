@@ -1,9 +1,6 @@
-import React from "react";
 import { Col, Row } from "react-bootstrap";
-import macOs from "../../Assets/TechIcons/Apple MacOSX.svg";
 import chrome from "../../Assets/TechIcons/Google Chrome.svg";
 import vsCode from "../../Assets/TechIcons/vscode.svg";
-import intelliJ from "../../Assets/TechIcons/intellij-idea.svg";
 import Burpsuite from "../../Assets/TechIcons/burpsuite-logo.webp";
 import Wireshark from "../../Assets/TechIcons/wireshark-logo.webp";
 import Anchor from "../../Assets/TechIcons/anchor.webp";

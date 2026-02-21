@@ -4,8 +4,7 @@ import homeLogo from "../../Assets/main-logof.png";
 import Particle from "../Particle";
 import Home2 from "./Home2.js";
 import Type from "./Type.js";
-import Techstack from "../About/Techstack";
-import Github from "../About/Github";
+
 import {
   AiFillGithub,
   AiOutlineTwitter,
